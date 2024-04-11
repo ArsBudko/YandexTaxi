@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexTaxiParser", "YandexTaxiParser.csproj", "{43109303-8E2A-421D-87F2-D36371224C6D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YandexTaxiRideReport", "..\YandexTaxiRideReport\YandexTaxiRideReport.vdproj", "{D1CBAA0D-E0D3-42AE-B2B3-6400312308D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43109303-8E2A-421D-87F2-D36371224C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43109303-8E2A-421D-87F2-D36371224C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43109303-8E2A-421D-87F2-D36371224C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43109303-8E2A-421D-87F2-D36371224C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CBAA0D-E0D3-42AE-B2B3-6400312308D8}.Debug|Any CPU.ActiveCfg = Debug
+		{D1CBAA0D-E0D3-42AE-B2B3-6400312308D8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D19CE8-3BBF-4A7C-A8A5-7B8A41CB1E77}
+	EndGlobalSection
+EndGlobal

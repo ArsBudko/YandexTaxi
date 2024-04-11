@@ -1,0 +1,13 @@
+ //Mail
+                    //host = "imap.mail.ru";
+                    //login = "holden27@list.ru";
+                    //pass = "awV4VxausfJm3LucPzy7";
+
+                    //Yandex
+                    //Host = "imap.yandex.ru";
+                    //Login = "budkod@ya.ru";
+                    //Pass = "akjwanqwcxytkmeb";
+
+                    //Path = @"C:\Users\dbudko\Documentum";
+                    //StartDay = DateTime.Parse("2023-06-03");
+                    //EndDay = DateTime.Parse("2023-06-04");
